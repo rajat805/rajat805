@@ -1,51 +1,63 @@
-# 👋 Hi, I'm Rajat Kushwaha
+<div align="center">
 
-### 💻 Backend Developer · B.Tech Student · AI/ML Enthusiast
+# `> Rajat Kushwaha_`
 
-<p align="left">
-  <a href="https://github.com/rajat805">
-    <img src="https://img.shields.io/badge/GitHub-rajat805-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/B.Tech-4th%20Year-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20AI%2FML-7C3AED?style=for-the-badge"/>
-</p>
+### Backend Developer · AI/ML · B.Tech
 
-> **Building practical software, learning every day, and solving problems one commit at a time.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer;AI%2FML+Enthusiast;DSA+Learner;Building+Practical+Software;Always+Learning+%26+Improving"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rajat805&style=flat-square&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/rajat805?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/rajat805?style=flat-square"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+<h3>🖥️ developer@rajat:~$ whoami</h3>
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-I'm **Rajat Kushwaha**, a 4th-year B.Tech student at **Bhagwan Parshuram Institute of Technology (BPIT)**.
-
-I'm interested in **Backend Development, APIs, Databases and AI/ML**. I enjoy turning ideas into practical applications and continuously improving my problem-solving skills through **DSA**.
-
-Currently focused on becoming a stronger **Backend Engineer** while exploring machine-learning applications.
+```text
+┌──────────────────────────────────────────────┐
+│              DEVELOPER PROFILE               │
+├──────────────────────────────────────────────┤
+│                                              │
+│  NAME        : Rajat Kushwaha                │
+│  ROLE        : Backend Developer             │
+│  EDUCATION   : B.Tech • 4th Year              │
+│  INSTITUTE   : BPIT                          │
+│                                              │
+│  INTERESTS   : Backend • AI/ML • DSA         │
+│  DATABASES   : MySQL • MongoDB • PostgreSQL  │
+│  CURRENT     : DSA + Backend Engineering     │
+│                                              │
+│  STATUS      : ● BUILDING                    │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 </td>
 
-<td width="45%">
+<td width="40%">
+
+### ⚡ Quick Stats
 
 ```text
-🎓 Education
-B.Tech • 4th Year • BPIT
-
-💻 Primary Focus
-Backend Development
-
-🤖 Interests
-AI / ML • APIs • Databases
-
-🧠 Currently Learning
-DSA + Backend Engineering
-
-🚀 Goal
-Build production-ready software
+Backend       █████████░  90%
+Python        █████████░  90%
+Databases     ████████░░  80%
+AI / ML       ████████░░  80%
+DSA           ██████░░░░  60%
+Frontend      ██████░░░░  60%
 ```
+
+> **Mission:**
+> Build useful software and become a stronger engineer through consistent learning.
 
 </td>
 </tr>
@@ -53,96 +65,108 @@ Build production-ready software
 
 ---
 
-## ⚡ What I'm Working On
+<h3>🧠 developer@rajat:~$ tech --stack</h3>
 
-| 🔭 Building                   | 🧠 Learning                  |
-| ----------------------------- | ---------------------------- |
-| AI/ML prediction applications | Data Structures & Algorithms |
-| Backend APIs                  | Backend Architecture         |
-| Database-driven applications  | Authentication & Security    |
-| Practical software projects   | Better coding practices      |
+<table>
+<tr>
+<td align="center">
 
----
+**LANGUAGES**
 
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c"/>
-</p>
 
-### ⚙️ Backend & Databases
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,django,express,mysql,mongodb,postgres"/>
-</p>
+<td align="center">
 
-### 🤖 AI / Data Science
+**BACKEND**
 
-<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+
+</td>
+
+<td align="center">
+
+**DATABASE**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**AI / DATA**
+
 <img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
 
-### 🌐 Frontend & Tools
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode"/>
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn"/>
+
+</td>
+
+<td align="center">
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+</td>
+
+<td align="center">
+
+**TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📌 Featured Projects
+<h3>🚀 developer@rajat:~$ ./projects</h3>
 
 <table>
 <tr>
 
 <td width="50%">
 
-## 🎯 Placement.AI
+### 🎯 Placement.AI
 
-AI-powered student placement prediction and career intelligence dashboard.
+**Student Placement Intelligence**
 
-**Built with**
+AI/ML dashboard for predicting placement outcomes and generating student-focused insights.
 
-`Python` `Pandas` `Scikit-learn` `Streamlit`
+```text
+Python
+Pandas
+Scikit-learn
+Streamlit
+```
 
-**Includes**
-
-* Placement prediction
-* EDA dashboard
-* Student analysis
-* AI-based suggestions
-
-<a href="https://github.com/rajat805">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
+`Prediction` `EDA` `Feature Engineering` `AI Insights`
 
 </td>
 
 <td width="50%">
 
-## 💻 Code Market
+### 💻 Code Market
 
-Developer marketplace concept for discovering, selling and using reusable code, prompts and development resources.
+**Developer Resource Marketplace**
 
-**Built with**
+Platform concept for discovering and sharing reusable code, prompts and development resources.
 
-`React` `Node.js` `Supabase`
+```text
+React
+Node.js
+Supabase
+```
 
-**Focus**
-
-* Developer marketplace
-* Resource discovery
-* Code & prompt sharing
-* Authentication
-
-<a href="https://github.com/rajat805">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
+`Marketplace` `Authentication` `Resources` `Developers`
 
 </td>
 
@@ -150,29 +174,30 @@ Developer marketplace concept for discovering, selling and using reusable code, 
 
 <tr>
 
-<td width="50%">
+<td>
 
-## 🤖 Machine Learning Projects
+### 🤖 ML Lab
 
-A collection of ML projects covering:
+Collection of machine-learning projects covering:
 
-`Classification` `Prediction` `EDA` `Feature Engineering` `Model Evaluation`
-
-<a href="https://github.com/rajat805?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Classification` · `Prediction` · `EDA` · `Model Evaluation`
 
 </td>
 
-<td width="50%">
+<td>
 
-## 🚧 More Coming Soon
+### 🔨 Next Build
 
-Currently exploring new ideas around:
+```text
+STATUS: PLANNING...
 
-`Backend` `AI/ML` `APIs` `Databases`
+[ Backend API        ]
+[ Database System    ]
+[ AI Integration     ]
+[ Deployment         ]
 
-> Building → Testing → Learning → Improving
+████████░░ 80%
+```
 
 </td>
 
@@ -181,81 +206,174 @@ Currently exploring new ideas around:
 
 ---
 
-# 📊 GitHub Analytics
+<h3>📊 developer@rajat:~$ github --analytics</h3>
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajat805&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat805&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rajat805&theme=transparent&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajat805&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat805&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rajat805&hide_border=true&theme=transparent"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Achievements
+<h3>📈 developer@rajat:~$ activity --graph</h3>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajat805&theme=flat&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat805&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
-# 🎯 Current Learning Path
+<h3>🐍 developer@rajat:~$ contributions</h3>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rajat805/rajat805/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<h3>🎮 developer@rajat:~$ progression</h3>
 
 <table>
 <tr>
-<td width="33%">
+<td width="25%" align="center">
 
-### ⚙️ Backend
+### 🟢 LEVEL 01
 
-```text
-REST APIs
-   ↓
-Node.js / Django
-   ↓
+**Programming**
+
+Python
+Java
+C/C++
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔵 LEVEL 02
+
+**Backend**
+
+APIs
+Node.js
+Django
+
+</td>
+
+<td width="25%" align="center">
+
+### 🟣 LEVEL 03
+
+**Engineering**
+
 Databases
-   ↓
-Authentication
-   ↓
-System Design
-```
+Auth
+Architecture
 
 </td>
 
-<td width="33%">
+<td width="25%" align="center">
 
-### 🧠 DSA
+### 🟠 LEVEL 04
 
-```text
-Arrays
-   ↓
-Linked Lists
-   ↓
-Trees & Graphs
-   ↓
-Algorithms
-   ↓
-Problem Solving
-```
+**AI / ML**
 
-</td>
-
-<td width="33%">
-
-### 🤖 AI / ML
-
-```text
-Data Analysis
-   ↓
-Feature Engineering
-   ↓
-ML Models
-   ↓
-Evaluation
-   ↓
+EDA
+ML
 Deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>🧭 developer@rajat:~$ roadmap</h3>
+
+```text
+                    ┌───────────────────┐
+                    │   PROGRAMMING     │
+                    │ Python • Java     │
+                    │ C/C++             │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │       DSA         │
+                    │ Algorithms        │
+                    │ Problem Solving   │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+              ┌───────────────┴───────────────┐
+              ▼                               ▼
+      ┌─────────────────┐             ┌─────────────────┐
+      │     BACKEND     │             │     AI / ML     │
+      │ APIs • Auth     │             │ EDA • Models    │
+      │ Databases       │             │ Deployment      │
+      └────────┬────────┘             └────────┬────────┘
+               │                               │
+               └───────────────┬───────────────┘
+                               ▼
+                    ┌───────────────────┐
+                    │  BUILD REAL       │
+                    │  SOFTWARE         │
+                    └───────────────────┘
+```
+
+---
+
+<h3>🏆 developer@rajat:~$ achievements</h3>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajat805&theme=flat&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+<h3>⚡ developer@rajat:~$ currently</h3>
+
+<table>
+<tr>
+<td>
+
+```text
+[✓] Building AI/ML projects
+[✓] Learning Backend Engineering
+[✓] Practicing DSA
+[✓] Working with APIs
+[✓] Exploring databases
+[→] Building production-oriented projects
+```
+
+</td>
+
+<td>
+
+```text
+FOCUS
+
+Backend       ████████░░
+DSA           ██████░░░░
+AI / ML       ████████░░
+Databases     ████████░░
+System Design ████░░░░░░
 ```
 
 </td>
@@ -264,36 +382,24 @@ Deployment
 
 ---
 
-# 📈 Contribution Activity
+<h3>🤝 developer@rajat:~$ connect</h3>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat805&hide_border=true&area=true&theme=github-compact"/>
-</p>
+<div align="center">
 
----
-
-# 🤝 Connect With Me
-
-<p align="left">
 <a href="https://github.com/rajat805">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-</p>
 
----
+<br><br>
 
-## 💬 Developer Mindset
+```text
+> Build
+> Break
+> Learn
+> Improve
+> Repeat_
+```
 
-<p align="center">
+### ⭐ Thanks for visiting my profile.
 
-### **"Build. Break. Learn. Improve. Repeat."**
-
-</p>
-
-<p align="center">
-⭐ If you find something interesting here, feel free to explore my repositories.
-</p>
-
-<p align="center">
-<b>Thanks for visiting my profile! 🚀</b>
-</p>
+</div>
